@@ -1,0 +1,1 @@
+from .pacote import ola_pacote
